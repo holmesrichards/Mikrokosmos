@@ -1,1 +1,1 @@
-Hardware and graphics designs licensed [cc-by-sa](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Original Mikrophonie design by Tom Whitwell. 
+Hardware and graphics designs licensed [cc-by-sa](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Original Mikrophonie design by Tom Whitwell. Kosmo version by [Rich Holmes](mailto://rs.holmes@gmail.com).
