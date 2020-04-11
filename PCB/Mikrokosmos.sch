@@ -505,15 +505,4 @@ $EndComp
 Connection ~ 4900 5200
 Wire Wire Line
 	4900 5200 5150 5200
-$Comp
-L Mechanical:MountingHole H1
-U 1 1 5E83820F
-P 2400 3850
-F 0 "H1" H 2500 3896 50  0000 L CNN
-F 1 "MountingHole" H 2500 3805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 2400 3850 50  0001 C CNN
-F 3 "~" H 2400 3850 50  0001 C CNN
-	1    2400 3850
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC

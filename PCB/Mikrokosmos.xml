@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Mikrophonie/Mikrokosmos/PCB/Mikrokosmos.sch</source>
-    <date>Fri 10 Apr 2020 02:05:44 PM EDT</date>
+    <source>/home/rsholmes/Google Drive/Hobbies/Music/Instruments/Synths/Music Thing/Mikrophonie/Mikrokosmos/PCB/Mikrokosmos.sch</source>
+    <date>Sat 11 Apr 2020 01:22:39 PM EDT</date>
     <tool>Eeschema 5.1.5-52549c5~84~ubuntu18.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -86,7 +86,7 @@
     <comp ref="J1">
       <value>EURO_PWR_2x5</value>
       <footprint>EurorackRSH:Eurorack_Power_Header_Shrouded</footprint>
-      <libsource lib="EurorackRSH" part="EURO_PWR_2x5" description=""/>
+      <libsource lib="EurorackRSH" part="EURO_PWR_2x5" description="Eurorack style 2x5 pin power header"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E73F98D</tstamp>
     </comp>
@@ -169,14 +169,6 @@
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E750F67</tstamp>
-    </comp>
-    <comp ref="H1">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E83820F</tstamp>
     </comp>
   </components>
   <libparts>
@@ -409,6 +401,7 @@
       </pins>
     </libpart>
     <libpart lib="EurorackRSH" part="EURO_PWR_2x5">
+      <description>Eurorack style 2x5 pin power header</description>
       <fields>
         <field name="Reference">J</field>
         <field name="Value">EURO_PWR_2x5</field>
@@ -426,17 +419,6 @@
         <pin num="10" name="+12V" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Mechanical" part="MountingHole">
-      <description>Mounting Hole without connection</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>MountingHole*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">H</field>
-        <field name="Value">MountingHole</field>
-      </fields>
-    </libpart>
   </libparts>
   <libraries>
     <library logical="Amplifier_Operational">
@@ -453,9 +435,6 @@
     </library>
     <library logical="EurorackRSH">
       <uri>/home/rsholmes/Google Drive/Hobbies/Music/Instruments/Synths/EurorackRSH.lib</uri>
-    </library>
-    <library logical="Mechanical">
-      <uri>/usr/share/kicad/library/Mechanical.lib</uri>
     </library>
   </libraries>
   <nets>
