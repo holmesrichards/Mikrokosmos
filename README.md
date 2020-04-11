@@ -15,3 +15,4 @@ Solder the red piezo lead to the switch terminal on the Mic In jack. (You’ll p
 
 The bottom of the PCB is secured to the panel via the pot. Use a 10 mm M3 spacer and two M3 screws to secure the top of the PCB.
 
+![Module](https://github.com/holmesrichards/Mikrokosmos/blob/master/Images/IMG_6220.JPG?raw=true)
