@@ -159,7 +159,7 @@ F 3 "~" H 6700 2550 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L EurorackRSH:EURO_PWR_2x5 J1
+L Mikrokosmos:EURO_PWR_2x5-EurorackRSH J1
 U 1 1 5E73F98D
 P 2500 5200
 F 0 "J1" H 2500 5647 60  0000 C CNN
