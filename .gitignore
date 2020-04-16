@@ -10,3 +10,6 @@ fp-lib-table
 *.zip
 *.DS_Store
 *~
+.gitignore-extra
+*.svg
+Mikrokosmos_docs.pdf
