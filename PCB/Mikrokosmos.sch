@@ -1,13 +1,13 @@
 EESchema Schematic File Version 4
 EELAYER 30 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
+Title "Mikrokosmos"
+Date "2020-04-16"
 Rev ""
-Comp ""
+Comp "Rich Holmes / Analog Output"
 Comment1 ""
 Comment2 ""
 Comment3 ""
