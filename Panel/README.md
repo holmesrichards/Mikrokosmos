@@ -1,6 +1,6 @@
 # Mikrokosmos panel files
 
-Aside from the usual files created by KiCad:
+Aside from the usual files created with KiCad:
 
 - mikrokosmos_panel.kicad_pcb
 - mikrokosmos_panel.pro
@@ -38,3 +38,12 @@ The two footprints were placed and aligned in Pcbnew, and then I drew a rectangl
 
 Due to the complexity of the copper artwork it takes a while for Pcbnew to render, for example, a 3d view, or to do copper fills. Be patient.
 
+Other files here:
+
+- mikrokosmos_panel_inkscape.png
+
+    A rendering of the module from Inkscape
+
+- README.md
+
+    This file
