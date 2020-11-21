@@ -11,4 +11,3 @@ fp-lib-table
 *.DS_Store
 *~
 .gitignore-extra
-*.svg
