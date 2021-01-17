@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Mikrokosmos)(type Legacy)(uri ${KIPRJMOD}/Mikrokosmos.lib)(options "")(descr ""))
+)
